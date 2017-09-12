@@ -18,7 +18,7 @@ To edit "Table of Contents" run
 	
 	./gh-md-toc README.md
 
-and copy the output over the existing table of contents below (excluding the top few lines).
+and copy the output over the existing table of contents below (excluding the lines above "Information Security &amp; Cryptography").
 
 ## Table of Contents
 
@@ -33,47 +33,69 @@ and copy the output over the existing table of contents below (excluding the top
      * [Denmark](#denmark)
      * [Finland](#finland)
      * [France](#france)
-     * [New Zealand](#new-zealand)
-     * [Norway](#norway)
-     * [Singapore](#singapore)
-  * [Networks &amp; Systems](#networks--systems)
-     * [Australia](#australia-1)
+     * [Germany](#germany)
      * [Hong Kong](#hong-kong)
+     * [India](#india)
      * [Italy](#italy)
      * [Japan](#japan)
+     * [Luxembourg](#luxembourg)
      * [Netherlands](#netherlands)
+     * [New Zealand](#new-zealand)
+     * [Norway](#norway)
+     * [Portugal](#portugal)
+     * [South Korea](#south-korea)
+     * [Sweden](#sweden)
+     * [Spain](#spain)
+     * [Switzerland](#switzerland)
+     * [Singapore](#singapore)
+     * [United Kingdom (UK)](#united-kingdom-uk)
+  * [Networks &amp; Systems](#networks--systems)
+     * [Australia](#australia-1)
+     * [Germany](#germany-1)
+     * [Hong Kong](#hong-kong-1)
+     * [Italy](#italy-1)
+     * [Japan](#japan-1)
+     * [Netherlands](#netherlands-1)
+     * [United Kingdom (UK)](#united-kingdom-uk-1)
+     * [France](#france-1)
+     * [Luxembourg](#luxembourg-1)
+     * [Spain](#spain-1)
   * [Data Science &amp; Machine Learning](#data-science--machine-learning)
      * [Australia](#australia-2)
+     * [Austria](#austria-1)
+     * [Canada](#canada-1)
      * [Cyprus](#cyprus-1)
      * [Denmark](#denmark-1)
-     * [Germany](#germany)
-     * [Italy](#italy-1)
-     * [Luxembourg](#luxembourg)
-     * [Spain](#spain)
-     * [United Kingdom (UK)](#united-kingdom-uk)
+     * [Germany](#germany-2)
+     * [Italy](#italy-2)
+     * [Luxembourg](#luxembourg-2)
+     * [Spain](#spain-2)
+     * [United Kingdom (UK)](#united-kingdom-uk-2)
   * [Computer Vision &amp; Pattern Recognition](#computer-vision--pattern-recognition)
-     * [Austria](#austria-1)
+     * [Austria](#austria-2)
   * [Human Computer Interaction](#human-computer-interaction)
      * [Cyprus](#cyprus-2)
-     * [United Kingdom (UK)](#united-kingdom-uk-1)
+     * [United Kingdom (UK)](#united-kingdom-uk-3)
   * [Wireless Communications](#wireless-communications)
-     * [Germany](#germany-1)
-     * [Italy](#italy-2)
-     * [Spain](#spain-1)
-     * [France](#france-1)
-     * [Hong Kong](#hong-kong-1)
+     * [Germany](#germany-3)
+     * [Italy](#italy-3)
+     * [Spain](#spain-3)
+  * [Mobile Computing](#mobile-computing)
+     * [France](#france-2)
+     * [Hong Kong](#hong-kong-2)
+     * [Italy](#italy-4)
   * [Bioinformatics](#bioinformatics)
   * [Programming Languages](#programming-languages)
      * [United Kingdom](#united-kingdom)
   * [Software Engineering](#software-engineering)
      * [Greece](#greece)
-     * [Canada](#canada-1)
+     * [Canada](#canada-2)
   * [Computer Games](#computer-games)
-     * [United Kingdom (UK)](#united-kingdom-uk-2)
+     * [United Kingdom (UK)](#united-kingdom-uk-4)
   * [Computer Graphics](#computer-graphics)
-     * [Austria](#austria-2)
+     * [Austria](#austria-3)
   * [Network Science](#network-science)
-     * [Italy](#italy-3)
+     * [Italy](#italy-5)
 
 ## Information Security & Cryptography
 ### Australia
@@ -119,8 +141,8 @@ yval@cs.adelaide.edu.au
 .adelaide.edu.http://wwwau/directory/yuval.yarom  
 Computer and Network Security. Cryptography (may require vetting by DFAT - see http://www.adelaide.edu.au/graduatecentre/admission/apply-now/international/sanctions/)  
 Scholarship information: http://www.adelaide.edu.au/graduatecentre/scholarships/research-international/  
-  
-### Austria  
+
+### Austria
   
 Krzysztof Pietrzak  
 Institute of Science and Technology (IST) Austria  
@@ -149,8 +171,8 @@ Christian Rechberger
 Graz University of Technology  
 https://iaik.tugraz.at  
 christian.rechberger@tugraz.at   
-  
-### Belgium   
+
+### Belgium 
   
 Olivier Pereira, François-Xavier Standaert  
 Université catholique de Louvain (Crypto Group)  
@@ -163,8 +185,8 @@ University of Leuven (COSIC)
 Applied crypto, hardware security, privacy research  
 https://www.esat.kuleuven.be//cosic/  
 seda@esat.kuleuven.be , jobs-cosic@esat.kuleuven.be  
-  
-### Brazil  
+
+### Brazil
   
 Jean Martina  
 Ricardo Custódio  
@@ -181,8 +203,8 @@ Diego F. Aranha, Ricardo Dahab, Julio López
 Institute of Computing - University of Campinas  
 Research in electronic voting, cryptographic protocols, efficient hardware/software implementations and side-channel attacks (Cryptographic Engineering)  
 http://www.lasca.ic.unicamp.br/site/  
-  
-### Canada  
+
+### Canada
   
 Carlisle Adams  
 School of Electrical Engineering and Computer Science  
@@ -299,8 +321,8 @@ Ryerson University
 Toronto, Ontario, Ontario  
 http://www.scs.ryerson.ca/~samiri  
 Applied cryptography, Cloud computing, Big data and machine learning, IoT  
-  
-### Chile  
+
+### Chile
   
 Ahmed Elmesiry  
 Department of Electronics Engineering  
@@ -310,8 +332,8 @@ https://goo.gl/dbk3vv
 Applied cryptography, Cloud computing, computer security, Internet security, security and privacy for the Internet of Things  
 Scholarship information:  
 The main step is to be accepted in the post graduation program from the Electronic Engineering Department. Please, contact DGIP for further details [DGIP offers grants]. Additionally, CONICYT offers funding opportunities every year. Usually, the call starts on november and the results are published in march  
-  
-### Cyprus  
+
+### Cyprus
   
 Michael Sirivianos  
 Cyprus University of Technology  
@@ -323,8 +345,8 @@ Social network security and privacy, device-centric and attribute-based authenti
   
 EU-funded PhD and post-doc positions. (www.recred.eu, encase.socialcomputing.eu)  
 MSc in Data Science and Engineering  
-  
-### Denmark  
+
+### Denmark
   
 Hackerspaces  
 Talk to the people at the https://labitat.dk/ hackerspace, either using their mailing list or IRC.  
@@ -355,8 +377,8 @@ University of Tartu, Estonia
 http://www.ut.ee/~dumas and http://sep.cs.ut.ee   
 Four PhD positions available in 2017 in the fields of business process management, process mining, privacy and security aspects of business processes.  
 Postdoc enquiries are also very welcome from recent or soon-to-be PhD graduates with a background in information systems engineering or in applied data mining.  
-  
-### Finland  
+
+### Finland
   
 N. Asokan  
 Secure Systems Group  
@@ -373,8 +395,8 @@ kimmo.halunen@vtt.fi
 Relevant links: http://www.vttresearch.com/services/digital-society/cyber-security  
 Currently three internships open (2 in Oulu and 1 in Espoo).  
 VTT has also a wide range of other technical research topics beyond security (check http://www.vttresearch.com for more information)  
-  
-### France  
+
+### France
   
 Luca De Feo  
 Université de Versailles, Versailles  
@@ -461,9 +483,9 @@ Systems Security, Embedded Systems security
 Eurecom, Sophia Antipolis (Close to Nice)  
 email:aurelien.francillon@eurecom.fr  
 More info:http://www.s3.eurecom.fr/~aurel/  
-  
-### Germany  
-  
+
+### Germany
+
 Chris Brzuska  
 brzuska@tuhh.de   
 TU Hamburg  
@@ -506,11 +528,8 @@ Fürther Str 246c / Eingang 5 / 2. OG
 90429 Nürnberg  
 https://www13.cs.fau.de  
   
-Topics: We’re broadly interested in topics around theoretical and applied crypto (we are not working on cryptoanalysis, number theory, block ciphers)   
-  
-  
-  
-  
+Topics: We’re broadly interested in topics around theoretical and applied crypto (we are not working on cryptoanalysis, number theory, block ciphers)
+
 Ruhr-University Bochum (HGI) also has a number of open positions in IT Security, see  
 https://hgi.rub.de/hgi/Institut/struktur/  
   
@@ -552,20 +571,20 @@ Usable Privacy & Security
   
 We have open positions at core CISPA (https://cispa.saarland/education/careers/) and our collaborative research center on "Methods and Tools for Understanding and Controlling Privacy" (https://privacy-sfb.cispa.saarland/).  
   
-Please include your current US supervisor in CC when contacting us.  
-  
-### Hong Kong  
-  
+Please include your current US supervisor in CC when contacting us.
+
+### Hong Kong
+
 Sherman S.M. Chow  
 smchow@ie.cuhk.edu.hk  
 Chinese University of Hong Kong  
 Applied Cryptography  
 http://staff.ie.cuhk.edu.hk/~smchow  
 HK PhD Fellowship (https://cerg1.ugc.edu.hk/hkpfs) / Department Support / My Research Grant  
-(All our courses are in English)  
-  
-### India  
-  
+(All our courses are in English)
+
+### India
+
 Prof. Manoj Prabhakaran  
 mp@cse.iitb.ac.in  
 Indian Institute of Technology Bombay  
@@ -607,10 +626,10 @@ Sanjit Chatterjee
 sanjit@csa.iisc.ernet.in  
 Indian Institute of Science  
 Applied Cryptography and Information Security  
-http://drona.csa.iisc.ernet.in/~sanjit  
-  
-### Italy  
-  
+http://drona.csa.iisc.ernet.in/~sanjit
+
+### Italy
+
 Marco Mellia  
 mellia@polito.it  
 Politecnico di Torino, Italy  
@@ -649,11 +668,10 @@ andrea.lanzi@unimi.it
 University of Milan, Italy  
 My research group is working on several research security area. More in particular our research deals with Host Intrusion Detection Systems (HIDS), memory error exploits, reverse engineering, malware and forensic analysis. In recent years we’ve mainly studied the application of emulation/virtualization and compiler techniques for malware analysis and detection. In addition we’ve been working on analyzing large-scale security datasets (e.g., Anubis malware collection) to investigate the behavior of current cyber threats. We are open for any internship and Ph.D application.  
 More information about our research group:  
--- http://security.di.unimi.it/   
-  
-  
-### Japan  
-  
+-- http://security.di.unimi.it/
+
+### Japan
+
 Prof. Youki Kadobayashi  
 youki-k@is.aist-nara.ac.jp   
 Nara Institute of Science and Technology  
@@ -682,10 +700,10 @@ Assoc. Prof. Rodney Van Meter
 rdv@sfc.wide.ad.jp   
 Keio University, Shonan Fujisawa Campus  
 Quantum networking, quantum computer architecture  
-http://web.sfc.keio.ac.jp/~rdv/  
-  
-### Luxembourg  
-  
+http://web.sfc.keio.ac.jp/~rdv/
+
+### Luxembourg
+
 Prof. Dr. Thomas Engel  
 admin-engel@uni.lu  
 University of Luxembourg, SECAN-Lab  
@@ -702,10 +720,10 @@ Dr. Radu State (senior researcher)
 radu.state@uni.lu  
 Interdisciplinary Centre for Security, Reliability and Trust, SEDAN group  
 IDS, Authentication, Security in/for Data Science Applications  
-http://wwwen.uni.lu/snt/research/sedan   
-  
-### The Netherlands  
-  
+http://wwwen.uni.lu/snt/research/sedan
+
+### Netherlands
+
 Tanja Lange tanja@hyperelliptic.org  
 Technische Universiteit Eindhoven (TU/e)   
 Department of Mathematics and Computer Science https://www.tue.nl/en/university/departments/mathematics-and-computer-science/  
@@ -763,9 +781,9 @@ Delft University of Technology
 Prof.dr.ir. Pieter Hartel Pieter.Hartel@tudelft.nl  
   
 Applied cryptography, privacy enhancing technologies, computing encrypted data, network security, data analytics for cyber security. More information: http://cys.ewi.tudelft.nl  
-   
-### New Zealand  
-  
+
+### New Zealand
+ 
 Steven Galbraith  s.galbraith@auckland.ac.nz   
 Mathematics Department, University of Auckland.  
 My group works mostly on the mathematics of public key cryptography and post-quantum cryptography.  
@@ -782,9 +800,9 @@ g.russello@auckland.ac.nz
 Department of Computer Science, The University of Auckland  
 Research Interests: Android Security, Privacy in the Cloud, IoT Security, Obfuscation..  
 Homepage: https://cs.auckland.ac.nz/~russello/  
-  
-### Norway  
-  
+
+### Norway
+
 Colin Boyd colin.boyd@ntnu.no  
 Applied Crypto Group, Department of Information Security and Communications Technology,  
 Norwegian University of Science and Technology (NTNU).  
@@ -793,24 +811,24 @@ Our new department spans Trondheim and Gjøvik and covers a broad range of infor
   
 simula@uib  
 https://www.simula.no/research/projects/simulauib   
-https://simula-uib.com/   
-  
-### Portugal  
-  
+https://simula-uib.com/
+
+### Portugal
+
 Manuel Barbosa mbb@dcc.fc.up.pt  
 HASLab - INESC TEC & Faculty of Science - University of Porto.  
   
 Our group works mostly on bridging the theoretical and practical views of cryptographic security; this includes provable security and efficient implementation of crypto, as well as the formal verification approach to both. Positions in these and other areas of research are advertised via our institutional website at www.inesctec.pt.  
-  
-### South Korea  
-  
+
+### South Korea
+
 Hyoungshick Kim hyoung@skku.edu  
 Department of Software, Sungkyunkwan University.  
 Research Interests: Usable Security, User Authentication, Software Security  
-See our website: http://seclab.skku.edu/   
-  
-### Sweden  
-  
+See our website: http://seclab.skku.edu/
+
+### Sweden
+
 Panos Papadimitratos, papadim@kth.se  
 Networked Systems Security (NSS) Group (www.ee.kth.se/nss)   
 What we are after is to make current and upcoming networked systems trustworthy, shielding them and their users from attacks and abuse. Our research agenda includes a gamut of security and privacy problems, with emphasis on wireless and mobile systems. We have a strong systems character, implementing and evaluating our solutions. At the same time, we pay close attention to theoretical methods, including, notably, formal protocol analysis and information-theoretic results. We are part of the School of Electrical Engineering at KTH and we are affiliated with the ACCESS and the ICES centers  
@@ -837,10 +855,10 @@ Pablo Picazo-Sanchez, Gerardo Schneider
 Chalmers University of Technology  
 Security and Privacy in IoT and eHealth. Malware detection.  
 pablop@chalmers.se  
-gersch@chalmers.se  
-  
-### Spain  
-  
+gersch@chalmers.se 
+
+### Spain
+
 Dario Fiore, Boris Köpf, Carmela Troncoso  
 dario.fiore@imdea.org   
 boris.koepf@imdea.org  
@@ -860,10 +878,10 @@ Internet measurements, privacy and security. Focus on mobile and IoT.
 PhD positions available.  
 Madrid  
 http://www.networks.imdea.org/  
-Personal: http://people.networks.imdea.org/~narseo_vallina/  
-  
-### Switzerland  
-  
+Personal: http://people.networks.imdea.org/~narseo_vallina/
+
+### Switzerland
+
 Jean-Philippe Aumasson  
 Kudelski Security, Global Research team  
 We co-supervise semester projects and masters theses jointly with EPFL or HEIG-VD  
@@ -884,8 +902,8 @@ Serge Vaudenay
 Ecole Polytechnique Fédérale de Lausanne (EPFL)  
 Cryptographic algorithms and protocols, cryptanalysis, privacy  
 http://lasec.epfl.ch/  
-  
-### Singapore  
+
+### Singapore
   
 Khin Mi Mi Aung  
 Data Center Technologies (DCT), Data Storage Institute, A*STAR Singapore  
@@ -897,10 +915,10 @@ Roland Yap
 School of Computing, National University of Singapore  
 Android, Isolation/Sandboxing, Malware, Memory Safety, Operating Systems, Programming Languages, Social Networks  
 http://www.comp.nus.edu.sg/~ryap  
-ryap@comp.nus.edu.sg  
-  
-### United Kingdom (UK)  
-  
+ryap@comp.nus.edu.sg
+
+### United Kingdom (UK)
+
 Martin Albrecht, Carlos Cid, Kenny Paterson  
 martin.albrecht@royalholloway.ac.uk / kenny.paterson@rhul.ac.uk / carlos.cid@rhul.ac.uk   
 Information Security Group  
@@ -1062,8 +1080,8 @@ Wolfson School of Mechanical, Electrical and Manufacturing Engineering,
 Signal Processing and Networks Group  
 Research areas: Network Intrusion Detection Systems, Software Defined Networks, IoT, Network security in Connected Vehicles, Practical attacks, detection and mitigation. Contact me for more information. Currently there is a PhD opportunity.  
   
-## Networks & Systems  
-### Australia  
+## Networks & Systems
+### Australia
   
 Dali Kaafar  
 CSIRO Data61, Networks Group  
@@ -1077,10 +1095,10 @@ Montefiore Institute: Department of Electrical Engineering and Computer Science
 Université de Liège  
 Email: benoit.donnet@ulg.ac.be  
 http://www.montefiore.ulg.ac.be/personnel.php?op=detail&id=1077  
-Network Measurements and Modeling, Middleboxes, Network Architecture  
-  
-### Germany  
-  
+Network Measurements and Modeling, Middleboxes, Network Architecture
+
+### Germany
+
 Xiaoming Fu  
 Institute of Computer Science  
 University of Goettingen  
@@ -1094,8 +1112,8 @@ TU Darmstadt
 wang@tk.tu-darmstadt.de  
 https://www.tk.informatik.tu-darmstadt.de/de/people/lin-wang/  
 Networked systems, edge-centric computing, discrete optimization  
-  
-### Hong Kong  
+
+### Hong Kong
   
 Pan Hui  
 Department of Computer Science and Engineering  
@@ -1103,8 +1121,8 @@ The Hong Kong University of Science and Technology
 Email: panhuiATcse.ust.hk  
 http://www.cse.ust.hk/~panhui/  
 system aspect of mobile Augmented Reality (AR) and AR content generation, mobile computing, urban computing, and other interesting topics related to social network  
-  
-### Italy  
+
+### Italy
   
 Marco Ajmone Marsan  
 Electronics and Telecommunications Department  
@@ -1145,10 +1163,10 @@ Email: emilio.leonardi@polito.it
 http://www.telematica.polito.it/public/faculty/emilio-leonardi  
 Topics: Online social networks and their dynamics,  Crowd-sourcing systems, Epidemic processes over large graphs, Performance evaluation of large systems, Network science   
   
-PhD applications: http://dottorato.polito.it/en/call_for_admission  
-  
-### Japan  
-  
+PhD applications: http://dottorato.polito.it/en/call_for_admission
+
+### Japan
+
 Prof. Hiroshi Esaki  
 hiroshi@wide.ad.jp  
 University of Tokyo  
@@ -1183,11 +1201,10 @@ Assoc. Prof. Rodney Van Meter
 rdv@sfc.wide.ad.jp   
 Keio University, Shonan Fujisawa Campus  
 Quantum networking, quantum computer architecture  
-http://web.sfc.keio.ac.jp/~rdv/  
-  
-  
-### Netherlands  
-  
+http://web.sfc.keio.ac.jp/~rdv/
+
+### Netherlands
+
 University of Amsterdam  
   
 SNE  
@@ -1196,10 +1213,10 @@ Master programme in Security/System Engineering and Networking
 OS3/UvA website  
 Admission information SNE master (info@os3.nl)  
   
-SNE is the University of Amsterdam top rated master education in System/Security and Network Engineering. We focus on Open Standards, Open Software and Open Security, hence the name OS3.  
-  
-### UK   
-  
+SNE is the University of Amsterdam top rated master education in System/Security and Network Engineering. We focus on Open Standards, Open Software and Open Security, hence the name OS3.
+
+### United Kingdom (UK)
+
 Hamed Haddadi  
 hamed.haddadi@qmul.ac.uk   
 School of Electronic Engineering and Computer Science, Queen Mary University of London  
@@ -1294,10 +1311,10 @@ Nicholas Race
 School of Computing & Communications  
 Lancaster University  
 Software Defined Networking (SDN), Network Functions Virtualisation (NFV), Fog Computing, Multimedia Distribution / Streaming Video  
-http://www.lancaster.ac.uk/scc/about-us/people/nicholas-race   
-  
-### France  
-  
+http://www.lancaster.ac.uk/scc/about-us/people/nicholas-race
+
+### France
+
 Giovanni Pau   
 University Piere et Marie Curie Sorbonne  
 Laboratory of Computer Science (LIP6)  
@@ -1318,18 +1335,18 @@ Kavé Salamatian
 Université de Savoie, Grenoble-Alpes  
 Annecy, France  
 kave.salamatian@univ-savoie.fr  
-Networking, social network analysis, cybersecurity  
-  
-### Luxembourg  
-  
+Networking, social network analysis, cybersecurity
+
+### Luxembourg
+
 Dr. Radu State (senior researcher)  
 radu.state@uni.lu  
 Interdisciplinary Centre for Security, Reliability and Trust, SEDAN group  
 SDN, NDN, IDS in IP networks  
-http://wwwen.uni.lu/snt/research/sedan   
-  
-### Spain  
-  
+http://wwwen.uni.lu/snt/research/sedan
+
+### Spain
+
 Dr. Arturo Azcorra (professor)  
 arturo.azcorra@imdea.org   
 IMDEA Networks Institute and University Carlos III  
@@ -1373,8 +1390,8 @@ http://www.networks.imdea.org/
 Personal: http://people.networks.imdea.org/~vincenzo_mancuso/  
 Opportunistic Architectures Lab: http://opparch.networks.imdea.org/   
   
-## Data Science & Machine Learning  
-### Australia  
+## Data Science & Machine Learning
+### Australia
   
 Adam Dunn  
 adam.dunn@mq.edu.au  
@@ -1391,25 +1408,26 @@ Statistical Machine Learning, Adversarial Learning and Robustness, Differential 
 Scholarship information:  
 https://studenteforms.app.unimelb.edu.au/apex/f?p=153:2:0:::2:P2_ID:641  
 Research Degree information:  
-https://futurestudents.unimelb.edu.au/admissions/applications/research  
-  
-### Austria  
+https://futurestudents.unimelb.edu.au/admissions/applications/research
+
+### Austria
+
 Christoph Lampert  
 IST Austria (Institute of Science and Technology, Austria)  
 http://pub.ist.ac.at/~chl/  
-chl@ist.ac.at  
-  
-### Canada  
-  
+chl@ist.ac.at
+
+### Canada
+
 Ali Miri  
 Computer and Information Security Lab (iCaSL)  
 Ryerson University  
 Toronto, Ontario, Ontario  
 http://www.scs.ryerson.ca/~samiri  
-Applied cryptography, Cloud computing, Big data and machine learning, IoT  
-  
-### Cyprus  
-  
+Applied cryptography, Cloud computing, Big data and machine learning, IoT
+
+### Cyprus
+
 Dr. Sotirios Chatzis (Assistant Professor)  
 sotirios.chatzis@eecei.cut.ac.cy  
 https://www.cut.ac.cy/eecei/staff/sotirios.chatzis/  
@@ -1418,8 +1436,8 @@ Cyprus University of Technology
   
 Data Science with a focus on Statistical Machine Learning.   
 Main application areas: modelling of human behavior, recommender systems, multimedia analysis, assisted and artificial creativity, computational finance, natural language processing, and social network analysis.  
-  
-### Denmark  
+
+### Denmark
   
 Sune Lehmann  
 sljo@dtu.dk  
@@ -1431,8 +1449,8 @@ Natalie Schluter
 natschluter@itu.dk, www.itu.dk/~nael   
 IT University of Copenhagen, www.itu.dk   
 Data Science (especially algorithms for machine learning, neural networks and natural language processing)  
-  
-### Germany  
+
+### Germany
   
 Arash Asadi  
 SEEMOO  
@@ -1440,8 +1458,9 @@ Technical University of Darmstadt
 Email: aasadiATseemoo.tu-darmstadt.de  
 https://www.seemoo.tu-darmstadt.de/team/arash-asadi/  
 Wireless communications with focus on Machine learning techniques.   
-  
-### Italy  
+
+### Italy
+
 Marco Mellia  
 mellia@polito.it  
 Politecnico di Torino, Italy  
@@ -1450,16 +1469,16 @@ More information can be found at
 http://bigdata.polito.it   
 And more information about the PhD program is available at  
 http://dottorato.polito.it/en/admission   
-  
-### Luxembourg  
+
+### Luxembourg
   
 Dr. Radu State (senior researcher)  
 radu.state@uni.lu  
 Interdisciplinary Centre for Security, Reliability and Trust, SEDAN group  
 Data Science, mostly in security applications, practical machine learning  
 http://wwwen.uni.lu/snt/research/sedan   
-  
-### Spain  
+
+### Spain
   
 Dr. Antonio Fernández Anta (research professor)  
 antonio.fernandez@imdea.org  
@@ -1474,8 +1493,8 @@ Madrid
 Funding → http://www.networks.imdea.org/phd-student-positions-2017#phd_machinelearning   
 Institution’s web site: http://www.networks.imdea.org/  
 Personal page: http://people.networks.imdea.org/~paolo_casari/   
-  
-### United Kingdom (UK)    
+
+### United Kingdom (UK)  
   
 Hamed Haddadi  
 hamed.haddadi@qmul.ac.uk   
@@ -1507,16 +1526,16 @@ University of Cambridge
 Networked systems, measurements, high performance, low-latency, machine-learning in networked systems  
 Http://www.cl.cam.ac.uk/~awm22/  
   
-## Computer Vision & Pattern Recognition  
-### Austria  
+## Computer Vision & Pattern Recognition
+### Austria
   
 Christoph Lampert  
 IST Austria (Institute of Science and Technology, Austria)  
 http://pub.ist.ac.at/~chl/  
 chl@ist.ac.at  
   
-## Human Computer Interaction  
-### Cyprus  
+## Human Computer Interaction
+### Cyprus
   
 Prof. Panayiotis Zaphiris  
 Cyprus University of Technology  
@@ -1525,8 +1544,8 @@ http://www.zaphiris.com/
 Areas of expertise: human computer interaction, inclusive design, social computing  
 We are matching international student fees to EU student fees for our online MSc in Interaction Design http://www.idmaster.eu   
 PhD and Internship positions at http://www.cyprusinteractionlab.com   
-  
-### United Kingdom (UK)    
+
+### United Kingdom (UK)  
   
 Professor Helen Petrie  
 Human Computer Interaction Research Group  
@@ -1545,8 +1564,8 @@ Topics: Online social networks and their dynamics,  Crowd-sourcing systems, Epid
   
 PhD applications: http://dottorato.polito.it/en/call_for_admission  
   
-## Wireless Communications  
-### Germany  
+## Wireless Communications
+### Germany
   
 Arash Asadi  
 SEEMOO  
@@ -1554,8 +1573,8 @@ Technical University of Darmstadt
 Email: aasadiATseemoo.tu-darmstadt.de  
 https://www.seemoo.tu-darmstadt.de/team/arash-asadi/  
 Wireless communications in general (MAC/PHY).  Current interest mmWave, V2X, D2D, HetNets, Coexistence problems.   
-  
-### Italy  
+
+### Italy
   
 Carla Fabiana Chiasserini  
 Electronics and Telecommunications Department, Politecnico di Torino  
@@ -1564,8 +1583,8 @@ http://www.telematica.polito.it/public/faculty/paolo-giaccone
 Topics: 5G wireless access, device-to-device communications and wireless relay networks,  
 massive MIMO  
 PhD applications: http://dottorato.polito.it/en/call_for_admission  
-  
-### Spain  
+
+### Spain
   
 Dr. Joerg Widmer (research professor)  
 joerg.widmer@imdea.org   
@@ -1583,10 +1602,10 @@ PhD positions available.
 Madrid  
 http://www.networks.imdea.org/  
 Personal: http://people.networks.imdea.org/~vincenzo_mancuso/  
-Opportunistic Architectures Lab: http://opparch.networks.imdea.org/   
-  
-## Mobile Computing  
-### France  
+Opportunistic Architectures Lab: http://opparch.networks.imdea.org/
+
+## Mobile Computing
+### France
   
 Giovanni Pau   
 University Pierre et Marie Curie Sorbonne  
@@ -1594,8 +1613,8 @@ Laboratory of Computer Science (LIP6)
 Mobile Systems, IoT, Social Computing,  Urban Sensing  
 giovanni.pau@lip6.fr  
 https://www.lip6.fr/actualite/personnes-fiche.php?nom=Pau   
-  
-### Hong Kong  
+
+### Hong Kong
   
 Pan Hui  
 Department of Computer Science and Engineering  
@@ -1603,7 +1622,8 @@ The Hong Kong University of Science and Technology
 Email: panhuiATcse.ust.hk  
 http://www.cse.ust.hk/~panhui/  
 system aspect of mobile Augmented Reality (AR) and AR content generation, mobile computing, urban computing, and other interesting topics related to social network  
-ITALY  
+
+### Italy
   
 Carla Fabiana Chiasserini  
 Electronics and Telecommunications Department, Politecnico di Torino  
@@ -1614,8 +1634,8 @@ PhD applications: http://dottorato.polito.it/en/call_for_admission
   
 ## Bioinformatics  
   
-## Programming Languages  
-### United Kingdom  
+## Programming Languages
+### United Kingdom
   
 Christian Urban (and others)  
 christian.urban@kcl.ac.uk  
@@ -1629,14 +1649,14 @@ kevin@kevinhammond.net, http://www.kevinhammond.net
   
 We are also open to research visitors of all kinds, including sabbaticals etc, and anticipate increasing our permanent academic staff in line with increasing student numbers.  
   
-## Software Engineering  
-### Greece  
+## Software Engineering
+### Greece
   
 Diomidis Spinellis  
 http://www.spinellis.gr — dds@aueb.gr  
 PhD Candidate or Postdoctoral Researcher in Applied Software Engineering. This is a position to perform applied research in software engineering. funded for three years through the European Union Horizon 2020 CROSSMINER project. We are looking for first stage researchers holding a Master degree or equivalent who will be hired as a PhD candidate, or for a recognized researcher holding a PhD or equivalent who will be hired as a postgraduate associate. The topic of the research is to mine and analyse data from software repositories (such as GitHub) to help developers and administrators build better software and systems. Additional details regarding benefits, application, and selection process can be found in the position’s EURAXESS posting. https://euraxess.ec.europa.eu/jobs/175366  
-  
-### Canada  
+
+### Canada
   
 Software Practices Lab at UBC in Vancouver  
 Ivan Beschastnikh, Thomas Fritz, Ronald Garcia, Reid Holmes, Gail Murphy  
@@ -1646,10 +1666,9 @@ We work on programming languages, software testing, software analysis, human asp
 Spain  
 IMDEA Software Institute, Madrid  
 Alessandra Gorla http://software.imdea.org/~alessandra.gorla  
-  
-  
-## Computer Games  
-### United Kingdom (UK)    
+
+## Computer Games
+### United Kingdom (UK)  
   
 Dayna Galloway (and others)  
 admissions@abertay.ac.uk  
@@ -1659,8 +1678,8 @@ http://www.abertay.ac.uk/discover/academic-schools/arts-media-computer-games/
 http://www.abertay.ac.uk/studying/postgraduate-research-degrees/  
   
   
-## Computer Graphics  
-### Austria  
+## Computer Graphics
+### Austria
   
 Bernd Bickel, Computer Graphics and Digital Fabrication  
 Institute of Science and Technology Austria (IST Austria)  
@@ -1668,8 +1687,8 @@ Looking for PhD students and postdocs
 bernd.bickel@ist.ac.at  
 http://visualcomputing.ist.ac.at  
   
-## Network Science  
-### Italy  
+## Network Science
+### Italy
   
 Emilio Leonardi  
 Electronics and Telecommunications Department, Politecnico di Torino  
