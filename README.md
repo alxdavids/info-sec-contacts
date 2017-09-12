@@ -4,9 +4,9 @@ This is a partial list of contact points for aspiring graduate students (and pos
 
 Below, organised by country, and then by name, please find a list of academics who are willing to act as a contact point to discuss opportunities in PhD and Masters programmes in Computer Science/Engineering. They may also be willing to discuss postdoc opportunities.
 
-@academics: please provide brief details - area, country, name, institution, contact e-mail, areas of interest, any funding details in a PR to this this repository. Alternatively notify Kenny or Emiliano by email.
+**@academics**: please provide brief details - area, country, name, institution, contact e-mail, areas of interest, any funding details in a PR to this this repository. Alternatively notify Kenny or Emiliano by email.
 
-@aspiring students: please do not spam contacts: use the information to start your research into alternatives to grad school and masters programmes in the US, and then to start conversations with selected contacts.
+**@aspiring students**: please do not spam contacts: use the information to start your research into alternatives to grad school and masters programmes in the US, and then to start conversations with selected contacts.
 
 ## Editing
 
