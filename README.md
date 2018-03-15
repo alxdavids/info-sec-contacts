@@ -1,6 +1,4 @@
-# Information Security Academic Contact Points
-
-This website serves as an entry point for aspiring graduate students (and post-docs) who are searching for positions in the broad field of information security. The list is intentionally global in scale and our hope is that we can help to increase the number of students applying to undertake doctoral studies in this area.
+This page serves as an entry point for aspiring graduate students (and post-docs) who are searching for positions in the broad field of information security. The list is intentionally global in scale and our hope is that we can help to increase the number of students applying to undertake doctoral studies in this area.
 
 **We are looking to update the positions that we have available for new students. All past positions displayed on this website/in the original [document](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit) have been moved to [PAST-POSITIONS.md](https://github.com/alxdavids/comp-sci-phd-contacts/blob/master/PAST-POSITIONS.md). If a previously advertised position is still active, inform us using the method [below](#adding-entries-to-list).**
 
