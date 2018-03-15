@@ -1,4 +1,4 @@
-# Computer Science/Engineering Contact Points
+# Information Security Academic Contact Points
 
 This website serves as an entry point for aspiring graduate students (and post-docs) who are searching for positions in the broad field of information security. The list is intentionally global in scale and our hope is that we can help to increase the number of students applying to undertake doctoral studies in this area.
 
