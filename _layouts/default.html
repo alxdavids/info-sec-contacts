@@ -19,8 +19,31 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">Issues? <small>{{ github_name }}</small></a></p>
+          <p class="view"><a href="{{ site.github.repository_url }}">Notify us about an issue <small>{{ github_name }}</small></a></p>
         {% endif %}
+
+        This list was created by:
+        <ul>
+            <li>
+                <a href="https://www.emilianodc.com/">
+                    <strong>Emiliano De Cristofaro</strong>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.isg.rhul.ac.uk/~kp/">
+                    <strong>Kenny Paterson</strong>
+                </a>
+            </li>
+        </ul>
+
+        Other maintainers:
+        <ul>
+        <li>
+            <a href="https://alxdavids.xyz">
+                <strong>Alex Davidson</strong>
+            </a>
+        </li>
+        </ul>
       </header>
       <section>
 
