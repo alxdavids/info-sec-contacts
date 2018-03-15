@@ -19,8 +19,20 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">Notify us about an issue <small>{{ github_name }}</small></a></p>
+          <p class="view"><a href="{{ site.github.repository_url }}"><strong>Notify us about an issue</strong> <small>{{ github_name }}</small></a></p>
         {% endif %}
+
+        <p class="view">
+            <a href="{{ site.github.url }}/#current-positions">
+                <strong>Current openings</strong>
+            </a>
+        </p>
+
+        <p class="view">
+            <a href="https://github.com/alxdavids/comp-sci-phd-contacts/blob/master/PAST-POSITIONS.md">
+                <strong>Past openings</strong>
+            </a>
+        </p>
 
         <p> This list was curated by: </p>
         <div class="ignore-css">
