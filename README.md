@@ -8,7 +8,6 @@ This list has grown from the initial list started by Kenny Paterson and Emiliano
 
 * [Adding entries to list](#adding-entries-to-list)
 * [Current positions](#current-positions)
-* [List maintainers](#list-maintainers)
 
 ## Adding entries to list
 
