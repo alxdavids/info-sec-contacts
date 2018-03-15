@@ -25,9 +25,3 @@ Submit a pull request, a Github [issue]((https://github.com/alxdavids/comp-sci-p
 - Expiry date for opening
 
 ## Current positions
-
-## List maintainers
-
-- [Alex Davidson](mailto:coela@alxdavid.xyz)
-- [Emiliano De Cristofaro](mailto:me@emilianodc.com)
-- [Kenny Paterson](mailto:kenny.paterson@rhul.ac.uk)
