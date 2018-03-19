@@ -4,6 +4,7 @@ This page serves as an entry point for aspiring graduate students (and post-docs
 
 * [Adding entries to list](#adding-entries-to-list)
 * [Current positions](#current-positions)
+* [Contact us](#contact-us)
 
 ## Adding entries to list
 
