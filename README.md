@@ -3,7 +3,7 @@ This page serves as an entry point for aspiring graduate students (and post-docs
 **We are looking to update the positions that we have available for new students. All past positions displayed on this website (and in the original [document](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit)) have been moved [here](https://github.com/alxdavids/comp-sci-phd-contacts/blob/master/PAST-POSITIONS.md). If a previously advertised position is still active, inform us using the method [below](#adding-entries-to-list).**
 
 * [Adding entries to list](#adding-entries-to-list)
-* [Current positions](#current-positions)
+* [Available positions](#available-positions)
 * [Contact us](#contact-us)
 
 ## Adding entries to list
@@ -20,7 +20,9 @@ Submit a pull request containing all of the following information.
 
 Alternatively, you may also submit a Github [issue]((https://github.com/alxdavids/comp-sci-phd-contacts/issues)) or send an email to [infoseccontacts@gmail.com](mailto:infoseccontacts@gmail.com).
 
-## Current positions
+## Available positions
+
+[Available positions will go here]
 
 ## Contact us
 
