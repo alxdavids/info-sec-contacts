@@ -18,7 +18,7 @@ Submit a pull request containing all of the following information.
 - Positions available/funding opportunities
 - Expiry date for opening
 
-Alternatively, you may also submit a Github [issue]((https://github.com/alxdavids/comp-sci-phd-contacts/issues)) or send an email to [infoseccontacts@gmail.com](mailto:infoseccontacts@gmail.com).
+Alternatively, if this is not possible, you may also submit a Github [issue]((https://github.com/alxdavids/comp-sci-phd-contacts/issues)) or send an email to [infoseccontacts@gmail.com](mailto:infoseccontacts@gmail.com) containing the above information.
 
 ## Available positions
 
