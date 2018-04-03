@@ -1,6 +1,6 @@
 This is a list of positions that were available on older versions of this list. These positions/contacts may be out of date.
 
-If a position/contact here is still available, please feel free to submit a pull request to move the entry back into the current openings. Otherwise create a [github issue](https://github.com/alxdavids/comp-sci-phd-contacts/issues) or send an email to [infoseccontacts@gmail.com](mailto:infoseccontacts@gmail.com)
+If a position/contact here is still available, please feel free to submit a pull request to move the entry back into the current openings. Otherwise create a [github issue](https://github.com/alxdavids/info-sec-contacts/issues) or send an email to [infoseccontacts@gmail.com](mailto:infoseccontacts@gmail.com)
 
 ## Table of Contents
 
