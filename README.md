@@ -1,10 +1,10 @@
-This page serves as an entry point for aspiring graduate students (and post-docs) who are looking for positions in the broad field of **information security**. We are maintaining an up-to-date [list](#current-positions) of contacts who are advertising current positions in the field. 
+This page serves as an entry point for aspiring graduate students (and post-docs) who are looking for positions in the broad field of *information security*. We are maintaining an up-to-date [list](#current-positions) of contacts who are advertising current positions in the field. 
 
 ## Background 
 Originally, this list was created to quickly advertise positions for students affected by the US travel bans.
-**We are looking to update the positions that we have available for new students. All past positions displayed on this website (and in the original [document](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit)) have been moved [here](https://github.com/alxdavids/comp-sci-phd-contacts/blob/master/PAST-POSITIONS.md). If a previously advertised position is still active, please inform us using the method [below](#adding-entries-to-list).**
+All past positions displayed on this website (and in the original [document](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit)) have been moved [here](https://github.com/alxdavids/comp-sci-phd-contacts/blob/master/PAST-POSITIONS.md). *If a previously advertised position is still active, please inform us using the method [below](#adding-entries-to-list).*
 
-## New list
+## Content
 
 * [Available positions](#available-positions)
 * [Adding entries to list](#adding-entries-to-list)
