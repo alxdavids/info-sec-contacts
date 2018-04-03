@@ -26,7 +26,7 @@ Submit a [pull request](https://github.com/alxdavids/info-sec-contacts/pulls) co
 - Positions available/funding opportunities
 - Expiry date for opening
 
-Alternatively, if you do not know how to submit a pull request, you may also submit a Github [issue]((https://github.com/alxdavids/info-sec-contacts/issues)) or send an email to [infoseccontacts@gmail.com](mailto:infoseccontacts@gmail.com) containing the above information.
+Alternatively, if you do not know how to submit a pull request, you may also submit a Github [issue](https://github.com/alxdavids/info-sec-contacts/issues) or send an email to [infoseccontacts@gmail.com](mailto:infoseccontacts@gmail.com) containing the above information.
 
 ## Contact us
 
