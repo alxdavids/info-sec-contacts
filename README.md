@@ -7,15 +7,14 @@ All past positions displayed on this website (and in the original [document](htt
 ## Content
 
 * [Available positions](#available-positions)
-	* [United Kingdom](#united-kingdom)
+	* [PhD in Cybersecurity of Connected and Autonomous Ships](#phd-in-cybersecurity-of-connected-and-autonomous-ships)
+	* [PhD in Network Security and Privacy](#phd-in-network-security-and-privacy)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
 ## Available positions
 
-### United Kingdom
-
-#### PhD in Cybersecurity of Connected and Autonomous Ships
+### PhD in Cybersecurity of Connected and Autonomous Ships
 **Contact name**: Shishir Nagaraja
 
 **Location**: Glasgow, UK
@@ -33,7 +32,7 @@ All past positions displayed on this website (and in the original [document](htt
 **Expiry date**: 01 June 2018
 
 
-#### PhD in Network Security and Privacy
+### PhD in Network Security and Privacy
 **Contact name**: Shishir Nagaraja
 
 **Location**: Glasgow, UK
