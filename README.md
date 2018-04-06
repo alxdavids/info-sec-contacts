@@ -45,7 +45,7 @@ All past positions displayed on this website (and in the original [document](htt
 > A fully funded PhD studentship is available in the area of Network Security and Privacy. The PhD topic is fairly flexible however applicants interested in working at the intersection of software engineering, control theory, network security, or communications theory are particularly welcome. Students should be skilled programmers with an interest in the foundations of: statistics, distributed systems, and networks.
 
 *Funding details*: 
-> Any UK or EU resident is eligible to apply. UK/EU citizenship is not required. The studentship is for 3.5 years, and includes tuition fees and a competitive stipend. Applicants should send complete applications including two academic references, research proposal, transcripts, and degree certificates via the Post Graduate Application Portal by 05 May 2018. See https://www.strath.ac.uk/courses/research/computerinformationsciences/.
+> Any UK or EU resident is eligible to apply. UK/EU citizenship is not required. The studentship is for 3.5 years, and includes tuition fees and a competitive stipend. Applicants should send complete applications including two academic references, research proposal, transcripts, and degree certificates via the Post Graduate Application Portal by 05 May 2018. See [https://www.strath.ac.uk/courses/research/computerinformationsciences/](https://www.strath.ac.uk/courses/research/computerinformationsciences/).
 
 *Expiry date*: 01 June 2018
 
