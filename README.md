@@ -16,26 +16,26 @@ All past positions displayed on this website (and in the original [document](htt
 ### United Kingdom
 
 #### PhD in Cybersecurity of Connected and Autonomous Ships
-* Contact name: Shishir Nagaraja
-* Location: Glasgow, UK
-* Institution: University of Strathclyde (Computing)
-* Email: shishir.nagaraja@strath.ac.uk
-* Position details:
+* **Contact name**: Shishir Nagaraja
+* **Location**: Glasgow, UK
+* **Institution**: University of Strathclyde (Computing)
+* **Email**: shishir.nagaraja@strath.ac.uk
+* **Position details**:
 	* The student will be expected to perform security analysis, develop attacks, and build defences, so hands-on skills including programming skills are required. In addition a strong fundamentals in any area of machine learning, statistics, networks, privacy, signal processing, cryptography, or security will be a significant plus.
-* Funding details: 
+* **Funding details**: 
 	* Any UK or EU resident is eligible to apply. UK/EU citizenship is not required. The studentship is for 3.5 years, and includes tuition fees and a competitive stipend. Applicants should send complete applications including two academic references, research proposal, transcripts, and degree certificates via the Post Graduate Application Portal by 05 May 2018. See https://www.strath.ac.uk/courses/research/computerinformationsciences/.
-* Expiry date: 01 June 2018
+* **Expiry date**: 01 June 2018
 
 #### PhD in Network Security and Privacy
-* Contact name: Shishir Nagaraja
-* Location: Glasgow, UK
-* Institution: University of Strathclyde (Computing)
-* Email: shishir.nagaraja@strath.ac.uk
-* Position details:
+* **Contact name**: Shishir Nagaraja
+* **Location**: Glasgow, UK
+* **Institution**: University of Strathclyde (Computing)
+* **Email**: shishir.nagaraja@strath.ac.uk
+* **Position details**:
 	* A fully funded PhD studentship is available in the area of Network Security and Privacy. The PhD topic is fairly flexible however applicants interested in working at the intersection of software engineering, control theory, network security, or communications theory are particularly welcome. Students should be skilled programmers with an interest in the foundations of: statistics, distributed systems, and networks.
-* Funding details: 
+* **Funding details**: 
 	* Any UK or EU resident is eligible to apply. UK/EU citizenship is not required. The studentship is for 3.5 years, and includes tuition fees and a competitive stipend. Applicants should send complete applications including two academic references, research proposal, transcripts, and degree certificates via the Post Graduate Application Portal by 05 May 2018. See https://www.strath.ac.uk/courses/research/computerinformationsciences/.
-* Expiry date: 01 June 2018
+* **Expiry date**: 01 June 2018
 
 ## Adding entries to list
 
