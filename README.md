@@ -24,10 +24,10 @@ All past positions displayed on this website (and in the original [document](htt
 *Email*: [shishir.nagaraja@strath.ac.uk](mailto:shishir.nagaraja@strath.ac.uk)
 
 *Position details*:
-`The student will be expected to perform security analysis, develop attacks, and build defences, so hands-on skills including programming skills are required. In addition a strong fundamentals in any area of machine learning, statistics, networks, privacy, signal processing, cryptography, or security will be a significant plus.`
+>The student will be expected to perform security analysis, develop attacks, and build defences, so hands-on skills including programming skills are required. In addition a strong fundamentals in any area of machine learning, statistics, networks, privacy, signal processing, cryptography, or security will be a significant plus.
 
 *Funding details*: 
-`Any UK or EU resident is eligible to apply. UK/EU citizenship is not required. The studentship is for 3.5 years, and includes tuition fees and a competitive stipend. Applicants should send complete applications including two academic references, research proposal, transcripts, and degree certificates via the Post Graduate Application Portal by 05 May 2018. See [https://www.strath.ac.uk/courses/research/computerinformationsciences/](https://www.strath.ac.uk/courses/research/computerinformationsciences/).`
+>Any UK or EU resident is eligible to apply. UK/EU citizenship is not required. The studentship is for 3.5 years, and includes tuition fees and a competitive stipend. Applicants should send complete applications including two academic references, research proposal, transcripts, and degree certificates via the Post Graduate Application Portal by 05 May 2018. See [https://www.strath.ac.uk/courses/research/computerinformationsciences/](https://www.strath.ac.uk/courses/research/computerinformationsciences/).
 
 *Expiry date*: 01 June 2018
 
