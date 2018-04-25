@@ -32,6 +32,7 @@ tomorrow’s hyper-connected world. To contribute to research projects in the ar
 > The contribution of the recruited candidate to the research efforts of the group  will involve regular interactions with PhD and undergraduate students, senior  researchers, and external partners (from industry, academia, and sometimes  hospitals); some participation in teaching is also expected. The research activities will include notably the design and the validation of protocols and algorithms.
 
 *Application*
+
 For the full description of the position and the application procedure, please check:
 [here](https://recruitingapp-2863.umantis.com/Vacancies/542/Description/2)
 
