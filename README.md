@@ -7,6 +7,7 @@ All past positions displayed on this website (and in the original [document](htt
 ## Content
 
 * [Available positions](#available-positions)
+	* [Post-Doctoral Researcher in Security and Privacy at EPFL](#post-doctoral-researcher-in-security-and-privacy-at-epfl)
 	* [PhD Studentship on Understanding, Measuring and Improving the Security of Collaboration Tools](#phd-studentship-on-understanding-measuring-and-improving-the-security-of-collaboration-tools)
 	* [PhD in Cybersecurity of Connected and Autonomous Ships](#phd-in-cybersecurity-of-connected-and-autonomous-ships)
 	* [PhD in Network Security and Privacy](#phd-in-network-security-and-privacy)
