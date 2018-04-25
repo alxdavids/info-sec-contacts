@@ -15,6 +15,27 @@ All past positions displayed on this website (and in the original [document](htt
 
 ## Available positions
 
+### Post-Doctoral Researcher in Security and Privacy at EPFL
+*Contact name*: Jean-Pierre Hubaux
+
+*Location*: Lausanne, Switzerland
+
+*Institution*: EPFL
+
+*Email*: [jean-pierre.hubaux@epfl.ch](mailto:jean-pierre.hubaux@epfl.ch)
+
+*Position details*:
+>EPFL/LCA1, led by Prof. Jean-Pierre Hubaux, is committed to laying the foundations and developing the tools for protecting privacy in 
+tomorrow’s hyper-connected world. To contribute to research projects in the area of data privacy and security, with an emphasis on health-related data and personalized medicine, we are looking to recruit a Post-Doctoral Researcher in Security and Privacy. 
+
+The contribution of the recruited candidate to the research efforts of the group  will involve regular interactions with PhD and undergraduate students, senior  researchers, and external partners (from industry, academia, and sometimes  hospitals); some participation in teaching is also expected. The research activities will include notably the design and the validation of protocols and algorithms.
+
+For the full description of the position and the application procedure, please check:
+https://recruitingapp-2863.umantis.com/Vacancies/542/Description/2
+
+*Expiry date*: 25 June 2018
+
+
 ### PhD Studentship on Understanding, Measuring and Improving the Security of Collaboration Tools
 *Contact name*: Steven Murdoch
 
