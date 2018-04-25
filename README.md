@@ -33,7 +33,7 @@ tomorrow’s hyper-connected world. To contribute to research projects in the ar
 
 *Application*
 For the full description of the position and the application procedure, please check:
-https://recruitingapp-2863.umantis.com/Vacancies/542/Description/2
+[here](https://recruitingapp-2863.umantis.com/Vacancies/542/Description/2)
 
 *Expiry date*: 25 June 2018
 
