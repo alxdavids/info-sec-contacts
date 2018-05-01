@@ -13,6 +13,7 @@ All past positions displayed on this website (and in the original [document](htt
 	* [PhD on Understanding, Measuring, and Improving the Security of Collaboration Tools at UCL](#phd-studentship-on-understanding-measuring-and-improving-the-security-of-collaboration-tools)
 	* [PhD in Cybersecurity of Connected and Autonomous Ships at University of Strathclyde](#phd-in-cybersecurity-of-connected-and-autonomous-ships)
 	* [PhD in Network Security and Privacy at University of Strathclyde](#phd-in-network-security-and-privacy)
+	* [Multiple open PhD and postdoc positions in security and formal analysis](#phds-and-postdocs-with-cas-cremers)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
@@ -129,6 +130,25 @@ Funding is available for a 4-year PhD studentship working on this project, provi
 > Any UK or EU resident is eligible to apply. UK/EU citizenship is not required. The studentship is for 3.5 years, and includes tuition fees and a competitive stipend. Applicants should send complete applications including two academic references, research proposal, transcripts, and degree certificates via the Post Graduate Application Portal by 05 May 2018. See [https://www.strath.ac.uk/courses/research/computerinformationsciences/](https://www.strath.ac.uk/courses/research/computerinformationsciences/).
 
 *Expiry date*: 01 June 2018
+
+
+### PhDs and postdocs with Cas Cremers
+
+*Location*: Saarbrücken, Germany
+
+*Institution*: [CISPA-Helmholtz center](https://cispa.saarland/)
+
+*Email*: [cas.cremers@cs.ox.ac.uk](mailto:cas.cremers@cs.ox.ac.uk)
+
+*Position details*:
+> Cas Cremers is expanding his research group within the recently founded CISPA-Helmholtz center, and has several PhD studentships and postdocs available. If you have a research idea or proposal already then that is great, but the position is flexible and he is happy to work with good candidates to find a topic that works for all. His group's research focuses around security analysis and communication systems, providing mathematical foundations, analysis tools, and novel security mechanisms. For example, he contributed to the analysis of the TLS 1.3 and Signal protocols, and co-developed the [Scyther tool](https://www.cs.ox.ac.uk/people/cas.cremers/scyther/) and the [Tamarin prover](https://tamarin-prover.github.io/) for security protocol analysis.
+
+*Applying*:
+> More details are in the [full posting](http://cascremers.com/open-positions.html).
+>
+> Positions are paid well, according to the relevant German pay scales, and include full benefits. DE/EU citizenship is not required.
+
+*Expiry date*: 16 June 2018, or until filled
 
 ## Adding entries to list
 
