@@ -7,7 +7,7 @@ All past positions displayed on this website (and in the original [document](htt
 ## Content
 
 * [Available positions](#available-positions)
-	* [Fully-funded PhD at University of Kent](#fully-funded-phd-at-university-of-kent)
+	* [Fully-funded PhD in Cyber Security at University of Kent](#fully-funded-phd-in-cyber-security-at-university-of-kent)
 	* [EPSRC-funded PhD in Cyber Security at University of Kent](#epsrc-funded-phd-in-cyber-security-at-university-of-kent)
 	* [Post-Doctoral Researcher in Security and Privacy at EPFL](#post-doctoral-researcher-in-security-and-privacy-at-epfl)
 	* [PhD on Understanding, Measuring, and Improving the Security of Collaboration Tools at UCL](#phd-studentship-on-understanding-measuring-and-improving-the-security-of-collaboration-tools)
@@ -18,7 +18,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 ## Available positions
 
-### Fully-funded PhD at University of Kent
+### Fully-funded PhD in Cyber Security at University of Kent
 
 *Contact name*: Shujun Li
 
