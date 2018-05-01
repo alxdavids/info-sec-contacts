@@ -26,7 +26,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Institution*: Kent Interdisciplinary Research Centre in Cyber Security (KirCCS), University of Kent
 
-*Contact information*: hooklee@gmail.com
+*Contact information*: [hooklee@gmail.com](mailto:hooklee@gmail.com)
 
 *Research areas of interest*: Cyber Security
 
@@ -42,7 +42,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Institution*: Kent Interdisciplinary Research Centre in Cyber Security (KirCCS), University of Kent
 
-*Contact information*: hooklee@gmail.com
+*Contact information*: [hooklee@gmail.com](mailto:hooklee@gmail.com)
 
 *Research areas of interest*: Cyber Security
 
