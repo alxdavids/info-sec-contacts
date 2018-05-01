@@ -30,7 +30,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Research areas of interest*: Cyber Security
 
-*Positions available/funding opportunities*: University funded PhD studentship, more details at http://www.hooklee.com/default.asp?t=Call%20for%20PhD%20Applications
+*Positions available/funding opportunities*: University funded PhD studentship, more details at <http://www.hooklee.com/default.asp?t=Call%20for%20PhD%20Applications>
 
 *Expiry date for opening*: Available until filled
 
@@ -46,7 +46,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Research areas of interest*: Cyber Security
 
-*Positions available*: EPSRC funded PhD studentship, more details at https://cyber.kent.ac.uk/calls.html#PhDs
+*Positions available*: EPSRC funded PhD studentship, more details at <https://cyber.kent.ac.uk/calls.html#PhDs>
 
 *Expiry date*: 31st May 2018 (or position filled)
 
