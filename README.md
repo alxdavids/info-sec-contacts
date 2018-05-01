@@ -14,6 +14,38 @@ All past positions displayed on this website (and in the original [document](htt
 
 ## Available positions
 
+### University of Kent funded PhD
+
+*Contact name*: Shujun Li
+
+*Location*: Canterbury, UK
+
+*Institution*: Kent Interdisciplinary Research Centre in Cyber Security (KirCCS), University of Kent
+
+*Contact information*: hooklee@gmail.com
+
+*Research areas of interest*: Cyber Security
+
+*Positions available/funding opportunities*: University funded PhD studentship, more details at http://www.hooklee.com/default.asp?t=Call%20for%20PhD%20Applications
+
+*Expiry date for opening*: Available until filled
+
+### EPSRC-funded PhD in Cyber Security (Kent)
+
+*Contact name*: Shujun Li
+
+*Location*: Canterbury, UK
+
+*Institution*: Kent Interdisciplinary Research Centre in Cyber Security (KirCCS), University of Kent
+
+*Contact information*: hooklee@gmail.com
+
+*Research areas of interest*: Cyber Security
+
+*Positions available*: EPSRC funded PhD studentship, more details at https://cyber.kent.ac.uk/calls.html#PhDs
+
+*Expiry date*: 31st May 2018 (or position filled)
+
 ### PhD in Cybersecurity of Connected and Autonomous Ships
 *Contact name*: Shishir Nagaraja
 
