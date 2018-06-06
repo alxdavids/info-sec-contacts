@@ -80,11 +80,11 @@ For the full description of the position and the application procedure, please c
 
 *Contact name*: Shujun Li
 
-*Location (city/country)*: Canterbury, Kent, UK
+*Location*: Canterbury, Kent, UK
 
-*Institution (department)*: University of Kent (School of Computing)
+*Institution*: University of Kent (School of Computing)
 
-*Contact information (email, telephone number etc.)*: [hooklee@gmail.com](mailto:hooklee@gmail.com), [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk), <http://www.hooklee.com>
+*Contact information*: [hooklee@gmail.com](mailto:hooklee@gmail.com), [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk), <http://www.hooklee.com>
 
 *Research areas of interest*: AI for Privacy Protection
 
