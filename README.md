@@ -29,7 +29,8 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Research areas of interest*: Cyber Security
 
-*Positions available/funding opportunities*: University funded PhD studentship, more details at <http://www.hooklee.com/default.asp?t=Call%20for%20PhD%20Applications>
+*Positions available/funding opportunities*: 
+>University funded PhD studentship, more details at <http://www.hooklee.com/default.asp?t=Call%20for%20PhD%20Applications>.
 
 *Expiry date for opening*: Available until filled
 
@@ -88,7 +89,8 @@ For the full description of the position and the application procedure, please c
 
 *Research areas of interest*: AI for Privacy Protection
 
-*Positions available/funding opportunities*: 3-year RA post, more details [here](https://www.jobs.ac.uk/job/BJU862/research-associate-in-ai-for-privacy-protection/)
+*Positions available/funding opportunities*: 
+> 3-year RA post, more details [here](https://www.jobs.ac.uk/job/BJU862/research-associate-in-ai-for-privacy-protection/)
 
 *Expiry date for opening*: 13th June 2018
 
@@ -102,7 +104,8 @@ For the full description of the position and the application procedure, please c
 
 *Contact information*: [kevin.huguenin@unil.ch](mailto:kevin.huguenin@unil.ch)
 
-*Position detail*: Fully-funded PhD position on privacy protection for lifestyle-tracking devices and applications. This is joint project with EPFL (Prof. Jean-Pierre Hubaux) funded by the SNSF. The starting date is early 2019 (to be agreed upon). For the full description of the position and the application procedure, please check [here](https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=13849&career_ns=job_listing&navBarLevel=JOB_SEARCH).
+*Position detail*: 
+>Fully-funded PhD position on privacy protection for lifestyle-tracking devices and applications. This is joint project with EPFL (Prof. Jean-Pierre Hubaux) funded by the SNSF. The starting date is early 2019 (to be agreed upon). For the full description of the position and the application procedure, please check [here](https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=13849&career_ns=job_listing&navBarLevel=JOB_SEARCH).
 
 *Expiry date*: 30.06.2018
 
