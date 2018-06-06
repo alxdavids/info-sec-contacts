@@ -11,6 +11,7 @@ All past positions displayed on this website (and in the original [document](htt
 	* [Post-Doctoral Researcher in Security and Privacy at EPFL](#post-doctoral-researcher-in-security-and-privacy-at-epfl)
 	* [Multiple open PhD and postdoc positions in security and formal analysis](#phds-and-postdocs-with-cas-cremers)
 	* [Research Associate in AI for Privacy Protection](#research-associate-in-ai-for-privacy-protection)
+	* [PhD position on privacy protection for lifestyle-tracking devices and applications](#phd-position-at-university-of-lausanne)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
@@ -90,6 +91,20 @@ For the full description of the position and the application procedure, please c
 *Positions available/funding opportunities*: 3-year RA post, more details at <https://www.jobs.ac.uk/job/BJU862/research-associate-in-ai-for-privacy-protection/>
 
 *Expiry date for opening*: 13th June 2018
+
+### PhD position at University of Lausanne
+
+*Contact name*: Prof. Kévin Huguenin
+
+*Location*: Lausanne, Switzerland
+
+*Institution*: Information Security and Privacy Lab (<http://people.unil.ch/kevinhuguenin/>), Department of Information Systems (<https://www.unil.ch/desi/en/home.html>), University of Lausanne
+
+*Contact information*: [kevin.huguenin@unil.ch](mailto:kevin.huguenin@unil.ch)
+
+*Position detail*: Fully-funded PhD position on privacy protection for lifestyle-tracking devices and applications. This is joint project with EPFL (Prof. Jean-Pierre Hubaux) funded by the SNSF. The starting date is early 2019 (to be agreed upon). For the full description of the position and the application procedure, please check [here](https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=13849&career_ns=job_listing&navBarLevel=JOB_SEARCH).
+
+*Expiry date*: 30.06.2018
 
 
 ## Adding entries to list
