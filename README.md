@@ -88,7 +88,7 @@ For the full description of the position and the application procedure, please c
 
 *Research areas of interest*: AI for Privacy Protection
 
-*Positions available/funding opportunities*: 3-year RA post, more details at <https://www.jobs.ac.uk/job/BJU862/research-associate-in-ai-for-privacy-protection/>
+*Positions available/funding opportunities*: 3-year RA post, more details [here](https://www.jobs.ac.uk/job/BJU862/research-associate-in-ai-for-privacy-protection/)
 
 *Expiry date for opening*: 13th June 2018
 
