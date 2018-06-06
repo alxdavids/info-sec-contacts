@@ -14,6 +14,7 @@ All past positions displayed on this website (and in the original [document](htt
 	* [PhD in Cybersecurity of Connected and Autonomous Ships at University of Strathclyde](#phd-in-cybersecurity-of-connected-and-autonomous-ships)
 	* [PhD in Network Security and Privacy at University of Strathclyde](#phd-in-network-security-and-privacy)
 	* [Multiple open PhD and postdoc positions in security and formal analysis](#phds-and-postdocs-with-cas-cremers)
+	* [Research Associate in AI for Privacy Protection](#research-associate-in-ai-for-privacy-protection)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
@@ -149,6 +150,24 @@ Funding is available for a 4-year PhD studentship working on this project, provi
 > Positions are paid well, according to the relevant German pay scales, and include full benefits. DE/EU citizenship is not required.
 
 *Expiry date*: 16 June 2018, or until filled
+
+
+### Research Associate in AI for Privacy Protection
+
+*Contact name*: Shujun Li
+
+*Location (city/country)*: Canterbury, Kent, UK
+
+*Institution (department)*: University of Kent (School of Computing)
+
+*Contact information (email, telephone number etc.)*: [hooklee@gmail.com](mailto:hooklee@gmail.com), [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk), <http://www.hooklee.com>
+
+*Research areas of interest*: AI for Privacy Protection
+
+*Positions available/funding opportunities*: 3-year RA post, more details at <https://www.jobs.ac.uk/job/BJU862/research-associate-in-ai-for-privacy-protection/>
+
+*Expiry date for opening*: 13th June 2018
+
 
 ## Adding entries to list
 
