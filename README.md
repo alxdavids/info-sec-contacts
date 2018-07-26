@@ -36,7 +36,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 >Funding is available for a 4-year PhD studentship working on this project, providing a standard stipend and fees (at UK/EU rate). The project will be supervised by Dr Steven Murdoch and will start in October 2018 (unless agreed otherwise).
 
->To apply, see instructions at http://www.cs.ucl.ac.uk/prospective_students/phd_programme/funded_scholarships/#c31028
+>To apply, see instructions at <http://www.cs.ucl.ac.uk/prospective_students/phd_programme/funded_scholarships/#c31028>
 
 *Expiry date for opening*: 5 August 2018 with references required by 12 August 2018
 
