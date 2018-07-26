@@ -7,6 +7,7 @@ All past positions displayed on this website (and in the original [document](htt
 ## Content
 
 * [Available positions](#available-positions)
+	* [PhD Studentship: Understanding, Measuring and Improving the Security of Collaboration Tools](#phd-studentship-understanding-measuring-and-improving-the-security-of-collaboration-tools)
 	* [Fully-funded PhD in Cyber Security at University of Kent](#fully-funded-phd-in-cyber-security-at-university-of-kent)
 	* [Post-Doctoral Researcher in Security and Privacy at EPFL](#post-doctoral-researcher-in-security-and-privacy-at-epfl)
 	* [Multiple open PhD and postdoc positions in security and formal analysis](#phds-and-postdocs-with-cas-cremers)
@@ -16,6 +17,31 @@ All past positions displayed on this website (and in the original [document](htt
 * [Contact us](#contact-us)
 
 ## Available positions
+
+### PhD Studentship: Understanding, Measuring and Improving the Security of Collaboration Tools
+
+*Contact name*: Steven Murdoch
+
+*Location*: London, UK
+
+*Institution*: University College London
+
+*Contact information*: http://murdoch.is/#contact
+
+*Research areas of interest*: privacy, anonymous communications, cryptography, usability
+
+*Positions available*:
+
+>Whenever you communicate with someone electronically there are intermediaries that process and carry your communication, helping it reliably get to the intended destination, or storing it until the recipient goes online to collect it. We hope that these intermediaries behave properly, but sometimes they get hacked, or the people running them act maliciously, and your communications can then be tampered with and eavesdropped, with potentially severe consequences. End-to-end encryption is designed to protect against such threats and has been available for decades, but it’s still rarely used because it interferes with modern ways of working. For example, if the company that provides your email service can’t read it, you can’t search it without downloading it all; with collaboration applications, like Google Docs or chat applications, current end-to-end encryption approaches won't even work. Even if data is encrypted end-to-end, analysis of the meta-data can still violate privacy, for example disclosing who is working with whom. Anonymous communication systems like Tor can help protect meta-data but the delay that the most secure systems (e.g. Loopix) introduce would prevent standard collaboration technologies from working properly. This project will develop techniques to build collaboration applications that are end-to-end secure, and protect privacy. We will quantify how secure and effective they are, working with investigative journalists who need high levels of security in their collaboration applications.
+
+>Funding is available for a 4-year PhD studentship working on this project, providing a standard stipend and fees (at UK/EU rate). The project will be supervised by Dr Steven Murdoch and will start in October 2018 (unless agreed otherwise).
+
+>To apply, see instructions at http://www.cs.ucl.ac.uk/prospective_students/phd_programme/funded_scholarships/#c31028
+
+*Expiry date for opening*: 5 August 2018 with references required by 12 August 2018
+
+
+
 
 ### Fully-funded PhD in Cyber Security at University of Kent
 
