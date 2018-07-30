@@ -25,7 +25,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Institution*: University College London
 
-*Contact information*: http://murdoch.is/#contact
+*Contact information*: <http://murdoch.is/#contact>
 
 *Research areas of interest*: privacy, anonymous communications, cryptography, usability
 
