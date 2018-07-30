@@ -8,7 +8,6 @@ All past positions displayed on this website (and in the original [document](htt
 
 * [Available positions](#available-positions)
 	* [PhD Studentship: Understanding, Measuring and Improving the Security of Collaboration Tools](#phd-studentship-understanding-measuring-and-improving-the-security-of-collaboration-tools)
-	* [Fully-funded PhD in Cyber Security at University of Kent](#fully-funded-phd-in-cyber-security-at-university-of-kent)
 	* [Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
 	* [PhD studentship in Cloud and Device Data Protection](#phd-studentship-in-cloud-and-device-data-protection)
 	* [PhD studentship in Cyber Security](#phd-studentship-in-cyber-security)
@@ -38,24 +37,6 @@ All past positions displayed on this website (and in the original [document](htt
 >To apply, see instructions at <http://www.cs.ucl.ac.uk/prospective_students/phd_programme/funded_scholarships/#c31028>
 
 *Expiry date for opening*: 5 August 2018 with references required by 12 August 2018
-
-
-### Fully-funded PhD in Cyber Security at University of Kent
-
-*Contact name*: Shujun Li
-
-*Location*: Canterbury, UK
-
-*Institution*: Kent Interdisciplinary Research Centre in Cyber Security (KirCCS), University of Kent
-
-*Contact information*: [hooklee@gmail.com](mailto:hooklee@gmail.com)
-
-*Research areas of interest*: Cyber Security
-
-*Positions available/funding opportunities*: 
->University funded PhD studentship, more details at <http://www.hooklee.com/default.asp?t=Call%20for%20PhD%20Applications>.
-
-*Expiry date for opening*: Available until filled
 
 
 ### Lecturer in Cyber Security and AI
