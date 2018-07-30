@@ -9,10 +9,9 @@ All past positions displayed on this website (and in the original [document](htt
 * [Available positions](#available-positions)
 	* [PhD Studentship: Understanding, Measuring and Improving the Security of Collaboration Tools](#phd-studentship-understanding-measuring-and-improving-the-security-of-collaboration-tools)
 	* [Fully-funded PhD in Cyber Security at University of Kent](#fully-funded-phd-in-cyber-security-at-university-of-kent)
-	* [Post-Doctoral Researcher in Security and Privacy at EPFL](#post-doctoral-researcher-in-security-and-privacy-at-epfl)
-	* [Multiple open PhD and postdoc positions in security and formal analysis](#phds-and-postdocs-with-cas-cremers)
-	* [Research Associate in AI for Privacy Protection](#research-associate-in-ai-for-privacy-protection)
-	* [PhD position on privacy protection for lifestyle-tracking devices and applications](#phd-position-at-university-of-lausanne)
+	* [Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
+	* [PhD studentship in Cloud and Device Data Protection](#phd-studentship-in-cloud-and-device-data-protection)
+	* [PhD studentship in Cyber Security](#phd-studentship-in-cyber-security)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
@@ -41,8 +40,6 @@ All past positions displayed on this website (and in the original [document](htt
 *Expiry date for opening*: 5 August 2018 with references required by 12 August 2018
 
 
-
-
 ### Fully-funded PhD in Cyber Security at University of Kent
 
 *Contact name*: Shujun Li
@@ -61,79 +58,58 @@ All past positions displayed on this website (and in the original [document](htt
 *Expiry date for opening*: Available until filled
 
 
-### Post-Doctoral Researcher in Security and Privacy at EPFL
-*Contact name*: Jean-Pierre Hubaux
+### Lecturer in Cyber Security and AI
 
-*Location*: Lausanne, Switzerland
+*Contact name*: Richard Jones
 
-*Institution*: EPFL
+*Location*: Canterbury, UK
 
-*Email*: [jean-pierre.hubaux@epfl.ch](mailto:jean-pierre.hubaux@epfl.ch)
+*Institution*: School of Computing, University of Kent
 
-*Position details*:
-> EPFL/LCA1, led by Prof. Jean-Pierre Hubaux, is committed to laying the foundations and developing the tools for protecting privacy in 
-tomorrow’s hyper-connected world. To contribute to research projects in the area of data privacy and security, with an emphasis on health-related data and personalized medicine, we are looking to recruit a Post-Doctoral Researcher in Security and Privacy. 
+*Contact information*: [cs-hos@kent.ac.uk](mailto:cs-hos@kent.ac.uk)
 
-> The contribution of the recruited candidate to the research efforts of the group  will involve regular interactions with PhD and undergraduate students, senior  researchers, and external partners (from industry, academia, and sometimes  hospitals); some participation in teaching is also expected. The research activities will include notably the design and the validation of protocols and algorithms.
+*Research areas of interest*: Cyber Security, AI, quantum computing
 
-*Application*
+*Positions available/funding opportunities*: 
+>Lecturer in Computer Science (<https://www.jobs.ac.uk/job/BLE293/lecturer-in-computer-science/>)
 
-For the full description of the position and the application procedure, please check:
-[here](https://recruitingapp-2863.umantis.com/Vacancies/542/Description/2)
-
-*Expiry date*: 25 June 2018
+*Expiry date for opening*: 15 August 2018
 
 
-### PhDs and postdocs with Cas Cremers
-
-*Location*: Saarbrücken, Germany
-
-*Institution*: [CISPA-Helmholtz center](https://cispa.saarland/)
-
-*Email*: [cas.cremers@cs.ox.ac.uk](mailto:cas.cremers@cs.ox.ac.uk)
-
-*Position details*:
-> Cas Cremers is expanding his research group within the recently founded CISPA-Helmholtz center, and has several PhD studentships and postdocs available. If you have a research idea or proposal already then that is great, but the position is flexible and he is happy to work with good candidates to find a topic that works for all. His group's research focuses around security analysis and communication systems, providing mathematical foundations, analysis tools, and novel security mechanisms. For example, he contributed to the analysis of the TLS 1.3 and Signal protocols, and co-developed the [Scyther tool](https://www.cs.ox.ac.uk/people/cas.cremers/scyther/) and the [Tamarin prover](https://tamarin-prover.github.io/) for security protocol analysis.
-
-*Applying*:
-> More details are in the [full posting](http://cascremers.com/open-positions.html).
->
-> Positions are paid well, according to the relevant German pay scales, and include full benefits. DE/EU citizenship is not required.
-
-*Expiry date*: 16 June 2018, or until filled
-
-
-### Research Associate in AI for Privacy Protection
+### PhD studentship in Cloud and Device Data Protection
 
 *Contact name*: Shujun Li
 
-*Location*: Canterbury, Kent, UK
+*Location*: Canterbury, UK and Munich, Germany
 
-*Institution*: University of Kent (School of Computing)
+*Institution*: School of Computing, University of Kent and German Research Center in Munich, Huawei Technologies
 
-*Contact information*: [hooklee@gmail.com](mailto:hooklee@gmail.com), [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk), <http://www.hooklee.com>
+*Contact information*: [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk)
 
-*Research areas of interest*: AI for Privacy Protection
+*Research areas of interest*: 
+>Cloud and Device Data Protection, see <https://www.cs.kent.ac.uk/research/studyingforaphd/phd-cloud-protection.html> for more details
 
-*Positions available/funding opportunities*: 
-> 3-year RA post, more details [here](https://www.jobs.ac.uk/job/BJU862/research-associate-in-ai-for-privacy-protection/)
+*Positions available/funding opportunities*: PhD studentship in Cloud and Device Data Protection
 
-*Expiry date for opening*: 13th June 2018
+*Expiry date for opening*: open until filled
 
-### PhD position at University of Lausanne
 
-*Contact name*: Prof. Kévin Huguenin
+### PhD studentship in Cyber Security
 
-*Location*: Lausanne, Switzerland
+*Contact name*: Shujun Li
 
-*Institution*: Information Security and Privacy Lab (<http://people.unil.ch/kevinhuguenin/>), Department of Information Systems (<https://www.unil.ch/desi/en/home.html>), University of Lausanne
+*Location*: Canterbury, UK
 
-*Contact information*: [kevin.huguenin@unil.ch](mailto:kevin.huguenin@unil.ch)
+*Institution*: School of Computing, University of Kent
 
-*Position detail*: 
->Fully-funded PhD position on privacy protection for lifestyle-tracking devices and applications. This is joint project with EPFL (Prof. Jean-Pierre Hubaux) funded by the SNSF. The starting date is early 2019 (to be agreed upon). For the full description of the position and the application procedure, please check [here](https://career5.successfactors.eu/career?company=universitdP&career_job_req_id=13849&career_ns=job_listing&navBarLevel=JOB_SEARCH).
+*Contact information*: [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk)
 
-*Expiry date*: 30.06.2018
+*Research areas of interest*: 
+>Cyber Security, see <https://www.cs.kent.ac.uk/research/studyingforaphd/phd-cybersecurity-2018.html> for a list of topics
+
+*Positions available/funding opportunities*: PhD in Cyber Security (for an UK/EU national)
+
+*Expiry date for opening*: open until filled
 
 
 ## Adding entries to list
