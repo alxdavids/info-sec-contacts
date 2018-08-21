@@ -11,8 +11,8 @@ All past positions displayed on this website (and in the original [document](htt
 	* [Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
 	* [PhD studentship in Cloud and Device Data Protection](#phd-studentship-in-cloud-and-device-data-protection)
 	* [PhD studentship in Cyber Security](#phd-studentship-in-cyber-security)
-	* [Post-Doc in Lattice-Based Cryptography at Royal Holloway](#post-doc-in-lattice-based-cryptography-royal-holloway)
-  * [2 Postdoc openings in Computational Privacy](#2-postdoc-positions-in-computational-privacy)
+	* [Post-Doc in Lattice-Based Cryptography at Royal Holloway](#post-doc-in-lattice-based-cryptography-at-royal-holloway)
+    * [2 Postdoc openings in Computational Privacy](#2-postdoc-positions-in-computational-privacy)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
@@ -110,7 +110,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Expiry date for opening*: September 17, 2018
 
-See https://jobs.royalholloway.ac.uk/vacancy.aspx?ref=0818-334
+See <https://jobs.royalholloway.ac.uk/vacancy.aspx?ref=0818-334>
 
 ### 2 Postdoc positions in Computational Privacy
 
@@ -123,17 +123,17 @@ See https://jobs.royalholloway.ac.uk/vacancy.aspx?ref=0818-334
 *Contact information*: [deMontjoye@imperial.ac.uk](mailto:deMontjoye@imperial.ac.uk)
 
 *Research areas of interest*:
-> The CPG is interested in applying techniques from statistical physics and machine learning to large and complex datasets to expose privacy risks. The CPG’s research projects usually include a mix of theoretical and empirical work with large-scale mobile-phone data, credit card transaction data, healthcare data etc. The group often collaborates with large industry partners in order to access rich datasets. See also: https://cpg.doc.ic.ac.uk
+> The CPG is interested in applying techniques from statistical physics and machine learning to large and complex datasets to expose privacy risks. The CPG’s research projects usually include a mix of theoretical and empirical work with large-scale mobile-phone data, credit card transaction data, healthcare data etc. The group often collaborates with large industry partners in order to access rich datasets. See also: <https://cpg.doc.ic.ac.uk>
 
 
 *Positions available/funding opportunities*:
 > (Opening 1) PostDoc in Computational Privacy (international).
 > The CPG is looking for a candidate with experience in computational privacy and/or applied statistical physics. The research project will be defined in close collaboration with the successful candidate. For example, a possible project could be the development of techniques and software to help utilise large-scale behavioural data while preventing attacks compromising individuals’ privacy.
-More informations: http://www.imperial.ac.uk/jobs/description/ENG00441/research-associateassistant-computational-privacy
+More informations: <http://www.imperial.ac.uk/jobs/description/ENG00441/research-associateassistant-computational-privacy>
 
 > (Opening 2) PostDoc in Machine Learning for Privacy (international).
 > The CPG is looking for a candidate with experience in the development and application of machine learning techniques. The research project will be defined in close collaboration with the successful candidate. For example, possible projects could include the development of a rigorous framework to profile individuals based on arbitrary data or the analysis of risks when data collected to train an algorithm for automatic decision making is collected from users who may have nefarious intentions.
-More informations: http://www.imperial.ac.uk/jobs/description/ENG00257/research-associate-adversarial-ml-and-identity-learning
+More informations: <http://www.imperial.ac.uk/jobs/description/ENG00257/research-associate-adversarial-ml-and-identity-learning>
 
 *Expiry date for opening*: August 31, 2018.
 
