@@ -7,8 +7,8 @@ All past positions displayed on this website (and in the original [document](htt
 ## Content
 
 * [Available positions](#available-positions)
-	* [PhD Studentship: Understanding, Measuring and Improving the Security of Collaboration Tools](#phd-studentship-understanding-measuring-and-improving-the-security-of-collaboration-tools)
-	* [Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
+	* [__EXPIRED__: PhD Studentship: Understanding, Measuring and Improving the Security of Collaboration Tools](#phd-studentship-understanding-measuring-and-improving-the-security-of-collaboration-tools)
+	* [__EXPIRED__: Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
 	* [PhD studentship in Cloud and Device Data Protection](#phd-studentship-in-cloud-and-device-data-protection)
 	* [PhD studentship in Cyber Security](#phd-studentship-in-cyber-security)
 	* [Post-Doc in Lattice-Based Cryptography at Royal Holloway](#post-doc-in-lattice-based-cryptography-at-royal-holloway)
