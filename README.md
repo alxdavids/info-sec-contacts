@@ -1,6 +1,6 @@
-This page serves as an entry point for aspiring graduate students (and post-docs) who are looking for positions in the broad field of *information security*. We are maintaining an up-to-date [list](#current-positions) of contacts who are advertising current positions in the field. 
+This page serves as an entry point for aspiring graduate students (and post-docs) who are looking for positions in the broad field of *information security*. We are maintaining an up-to-date [list](#current-positions) of contacts who are advertising current positions in the field.
 
-## Background 
+## Background
 Originally, this list was created to quickly advertise positions for students affected by the US travel bans.
 All past positions displayed on this website (and in the original [document](https://docs.google.com/document/d/17r18cKaMSeZF4fI7UZYV0QwCvdbEb3vy3BMNZfgbgzI/edit)) have been moved [here](https://github.com/alxdavids/info-sec-contacts/blob/master/PAST-POSITIONS.md). *If a previously advertised position is still active, please inform us using the method [below](#adding-entries-to-list).*
 
@@ -11,6 +11,7 @@ All past positions displayed on this website (and in the original [document](htt
 	* [Lecturer in Cyber Security and AI](#lecturer-in-cyber-security-and-ai)
 	* [PhD studentship in Cloud and Device Data Protection](#phd-studentship-in-cloud-and-device-data-protection)
 	* [PhD studentship in Cyber Security](#phd-studentship-in-cyber-security)
+    * [2 Postdoc openings in Computational Privacy](#2-postdoc-positions-in-computational-privacy)
 * [Adding entries to list](#adding-entries-to-list)
 * [Contact us](#contact-us)
 
@@ -51,7 +52,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Research areas of interest*: Cyber Security, AI, quantum computing
 
-*Positions available/funding opportunities*: 
+*Positions available/funding opportunities*:
 >Lecturer in Computer Science (<https://www.jobs.ac.uk/job/BLE293/lecturer-in-computer-science/>)
 
 *Expiry date for opening*: 15 August 2018
@@ -67,7 +68,7 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Contact information*: [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk)
 
-*Research areas of interest*: 
+*Research areas of interest*:
 >Cloud and Device Data Protection, see <https://www.cs.kent.ac.uk/research/studyingforaphd/phd-cloud-protection.html> for more details
 
 *Positions available/funding opportunities*: PhD studentship in Cloud and Device Data Protection
@@ -85,13 +86,37 @@ All past positions displayed on this website (and in the original [document](htt
 
 *Contact information*: [S.J.Li@kent.ac.uk](mailto:S.J.Li@kent.ac.uk)
 
-*Research areas of interest*: 
+*Research areas of interest*:
 >Cyber Security, see <https://www.cs.kent.ac.uk/research/studyingforaphd/phd-cybersecurity-2018.html> for a list of topics
 
 *Positions available/funding opportunities*: PhD in Cyber Security (for an UK/EU national)
 
 *Expiry date for opening*: open until filled
 
+### 2 Postdoc positions in Computational Privacy
+
+*Contact name*: Yves-Alexandre de Montjoye
+
+*Location*: London, UK
+
+*Institution*: Imperial College London
+
+*Contact information*: [deMontjoye@imperial.ac.uk](mailto:deMontjoye@imperial.ac.uk)
+
+*Research areas of interest*:
+> The CPG is interested in applying techniques from statistical physics and machine learning to large and complex datasets to expose privacy risks. The CPG’s research projects usually include a mix of theoretical and empirical work with large-scale mobile-phone data, credit card transaction data, healthcare data etc. The group often collaborates with large industry partners in order to access rich datasets. See also: https://cpg.doc.ic.ac.uk
+
+
+*Positions available/funding opportunities*:
+> (Opening 1) PostDoc in Computational Privacy (international).
+> The CPG is looking for a candidate with experience in computational privacy and/or applied statistical physics. The research project will be defined in close collaboration with the successful candidate. For example, a possible project could be the development of techniques and software to help utilise large-scale behavioural data while preventing attacks compromising individuals’ privacy.
+More informations: http://www.imperial.ac.uk/jobs/description/ENG00441/research-associateassistant-computational-privacy
+
+> (Opening 2) PostDoc in Machine Learning for Privacy (international).
+> The CPG is looking for a candidate with experience in the development and application of machine learning techniques. The research project will be defined in close collaboration with the successful candidate. For example, possible projects could include the development of a rigorous framework to profile individuals based on arbitrary data or the analysis of risks when data collected to train an algorithm for automatic decision making is collected from users who may have nefarious intentions.
+More informations: http://www.imperial.ac.uk/jobs/description/ENG00257/research-associate-adversarial-ml-and-identity-learning
+
+*Expiry date for opening*: August 31, 2018.
 
 ## Adding entries to list
 
